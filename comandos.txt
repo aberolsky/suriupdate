@@ -1,4 +1,7 @@
-[gestion.exe]
+[Date]
+Version: "1.0.0"
+
+[GESTION]
 LastVersion: "2.2.0"
 Destinos: "s:\wsgc,c:\wsgc,c:\sistema\wsgc,t:\wsgc"
 download: "gestion.rar"
