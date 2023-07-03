@@ -1,0 +1,2 @@
+[gestion.exe]
+LastVersion: 2.2.0
